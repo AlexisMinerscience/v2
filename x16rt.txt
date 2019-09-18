@@ -1,0 +1,8 @@
+yiimp-v2
+
+В стандартный “stratum by tpruvot”  заменены только те файлы, которые есть в  «stratum by barrystyle» 
+
+ 
+web > yaamp > core > funtions > yaamp.pnp > изменен алгоритм “x16r” на “x16rt”, порт для алгоритма «3636»
+
+после установки пула > переименовать “x16r.conf” в “x16rt.conf” с изменение самого кода.
